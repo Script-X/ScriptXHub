@@ -1,3 +1,0 @@
-for x = 1,25 do
-print("hi")
-end
