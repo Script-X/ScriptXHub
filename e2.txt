@@ -1,1 +1,1 @@
-local TodayCodeis = "ranshamen"
+Password = "Codehere"
