@@ -1,1 +1,1 @@
-local TodayCodeis = ranshamen
+local TodayCodeis = "ranshamen"
